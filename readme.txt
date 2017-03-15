@@ -8,3 +8,5 @@ create a new branch to git!
 git check -b dev <==> git branch dev, git checkout dev
 
 creating a new branch is quick and simple.
+
+branch management stratagy
