@@ -6,3 +6,5 @@ git add readme.txt
 
 create a new branch to git!
 git check -b dev <==> git branch dev, git checkout dev
+
+git new branch feature1
